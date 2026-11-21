@@ -14,6 +14,8 @@ An interactive Microsoft Excel dashboard analyzing Vrinda Store's 2022 retail pe
   </a>
 </p>
 
+<img src="Store Data Analysis Dashboard.JPG" alt="Store Data Analysis Dashboard" width="100%">
+
 ---
 
 ## 📊 Key Insights (2022)
